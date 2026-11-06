@@ -2,7 +2,7 @@
 
 Assistant Professor | Public Health Nursing | Health AI & Data Analytics
 
-I am an Assistant Professor in Nursing at Çanakkale Onsekiz Mart University, Türkiye, with a PhD in nursing and ongoing doctoral studies in bioengineering. My research connects public health nursing, machine learning, digital health, and interpretable prediction models.
+I am an Assistant Professor in Nursing at Çanakkale Onsekiz Mart University, Türkiye, with a PhD in public health nursing and ongoing doctoral studies in bioengineering. My research connects public health nursing, machine learning, digital health, and interpretable prediction models.
 
 ## Research interests
 - Trustworthy machine learning and external validation in healthcare
